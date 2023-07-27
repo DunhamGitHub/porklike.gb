@@ -1,0 +1,15 @@
+Changelog
+
+20230727
+ - downloaded repo, moved to subfolder
+ - downloaded "gbdk" included in parent folder
+ - downloaded "rgbds" inclueded in parent folder
+ - changed "python" to "python3" (MacOS brew)
+
+
+just comments
+
+health
+
+mob_hp[PLAYER_MOB] = 5;
+inv_update_hp()
