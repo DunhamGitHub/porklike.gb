@@ -8,3 +8,6 @@
 /.ninja_deps
 /.ninja_log
 /porklike.gb
+
+Thumbs.db
+.DS_Store
